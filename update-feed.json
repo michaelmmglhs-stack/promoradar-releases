@@ -1,12 +1,12 @@
 {
   "app_id": "com.promoradar.promoradar",
   "channel": "alpha",
-  "version_name": "0.1.0-alpha.21",
-  "version_code": 22,
-  "apk_url": "https://github.com/michaelmmglhs-stack/promoradar-releases/releases/download/v0.1.0-alpha.21/PromoRadar-0.1.0-alpha.21.apk",
-  "apk_sha256": "a09196827b69f65b1c0315e993bba98c111c8acd0fbec0252a42010b1bac3317",
+  "version_name": "0.1.0-alpha.22",
+  "version_code": 23,
+  "apk_url": "https://github.com/michaelmmglhs-stack/promoradar-releases/releases/download/v0.1.0-alpha.22/PromoRadar-0.1.0-alpha.22.apk",
+  "apk_sha256": "01c80be0f7d3fb5d4d2dd7d80996ccd763de34b7cb1c74317e482862dbaf1218",
   "certificate_sha256": "fbb977a6530aecf6705efc77bfb5a551118df16159c03d1d5f05a6f02e0f51e2",
-  "release_notes": "PromoRadar Alpha 21 (v0.1.0-alpha.21+22) - Versão de bootstrap oficial com suporte a autoatualização via GitHub Releases, validação de integridade SHA-256 e monitoramento contínuo em segundo plano.",
-  "published_at": "2026-11-05T00:42:00Z",
+  "release_notes": "PromoRadar 0.1.0-alpha.22: Homologação externa do sistema de auto-atualização in-app e validação ponta a ponta com mensageiros reais.",
+  "published_at": "2026-11-05T13:30:00Z",
   "mandatory": false
 }
