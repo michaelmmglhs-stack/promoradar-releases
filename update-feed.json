@@ -1,12 +1,12 @@
 {
   "app_id": "com.promoradar.promoradar",
   "channel": "alpha",
-  "version_name": "0.1.0-alpha.23",
-  "version_code": 24,
-  "apk_url": "https://github.com/michaelmmglhs-stack/promoradar-releases/releases/download/v0.1.0-alpha.23/PromoRadar-0.1.0-alpha.23.apk",
-  "apk_sha256": "086d0c5b4aeb0b8bff2e23b12570b4b6fdb463d6de2937eebd5d556db79c9d9c",
+  "version_name": "0.1.0-alpha.24",
+  "version_code": 25,
+  "apk_url": "https://github.com/michaelmmglhs-stack/promoradar-releases/releases/download/v0.1.0-alpha.24/PromoRadar-0.1.0-alpha.24.apk",
+  "apk_sha256": "000F422FAEB4FC9B2316F7D518FDEEBC6A54C359F715F5FEB048DE1A7CEFC242",
   "certificate_sha256": "fbb977a6530aecf6705efc77bfb5a551118df16159c03d1d5f05a6f02e0f51e2",
-  "release_notes": "PromoRadar 0.1.0-alpha.23: Homologação operacional do atualizador in-app via painel.",
-  "published_at": "2026-11-05T14:10:00Z",
+  "release_notes": "PromoRadar Alpha 24 (v0.1.0-alpha.24+25): Catálogo hierárquico de produtos, filtros técnicos especializados (Notebook, Desktop, SSD, HD Externo, Livros), catálogo de processadores com Intel Core Ultra Series 1-3, AMD Ryzen AI 300-400 e Apple M1-M5, interpretador inteligente local offline e motor com paridade total em segundo plano.",
+  "published_at": "2026-11-08T21:20:00Z",
   "mandatory": false
 }
