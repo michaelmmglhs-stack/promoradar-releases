@@ -1,12 +1,12 @@
 {
   "app_id": "com.promoradar.promoradar",
   "channel": "alpha",
-  "version_name": "0.1.0-alpha.24",
-  "version_code": 25,
-  "apk_url": "https://github.com/michaelmmglhs-stack/promoradar-releases/releases/download/v0.1.0-alpha.24/PromoRadar-0.1.0-alpha.24.apk",
-  "apk_sha256": "000F422FAEB4FC9B2316F7D518FDEEBC6A54C359F715F5FEB048DE1A7CEFC242",
+  "version_name": "0.1.0-alpha.25",
+  "version_code": 26,
+  "apk_url": "https://github.com/michaelmmglhs-stack/promoradar-releases/releases/download/v0.1.0-alpha.25/PromoRadar-0.1.0-alpha.25.apk",
+  "apk_sha256": "9736F2A6E8F77319760EB3387803A05621B179DEDE8B8C53DF2E41756A2A1538",
   "certificate_sha256": "fbb977a6530aecf6705efc77bfb5a551118df16159c03d1d5f05a6f02e0f51e2",
-  "release_notes": "PromoRadar Alpha 24 (v0.1.0-alpha.24+25): Catálogo hierárquico de produtos, filtros técnicos especializados (Notebook, Desktop, SSD, HD Externo, Livros), catálogo de processadores com Intel Core Ultra Series 1-3, AMD Ryzen AI 300-400 e Apple M1-M5, interpretador inteligente local offline e motor com paridade total em segundo plano.",
-  "published_at": "2026-11-08T21:20:00Z",
+  "release_notes": "PromoRadar Alpha 25 (v0.1.0-alpha.25+26): Correção de falsos positivos com modelo de identidade de produto e papéis semânticos (elimina conflito entre componentes internos e buscas por peças avulsas), expansão do catálogo com 12 categorias e 28 subcategorias (móveis por ambientes e periféricos de informática completos), sugestão dinâmica de buscas estruturadas e explicabilidade local de alertas com feedback.",
+  "published_at": "2026-11-09T15:22:00Z",
   "mandatory": false
 }
